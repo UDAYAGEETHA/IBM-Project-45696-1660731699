@@ -10,3 +10,6 @@ https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FA
 
 SwethaP26
 https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2Fassignment%2B1&subView=model000001833fbf080e_00000003
+
+vaishnavi02krishna
+https://us3.ca.analytics.ibm.com/bi/?perspective=home&folder=iE50679C16A2442E9981061AE6EB9A4A5
