@@ -14,4 +14,7 @@ https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2Fa
 https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2Fassignment%2B1%2FNew%2Bexploration
 
 vaishnavi02krishna 
+Assignment1 link
 https://us3.ca.analytics.ibm.com/bi/?perspective=home&folder=iE50679C16A2442E9981061AE6EB9A4A5
+assignment2 link
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fdashboard%2Fpharma%2Bdata%2Banalytics%2BDashboard1%2528assignment%2Bno%2B2%2529&action=view&mode=dashboard&subView=model00000183742a550d_00000002
