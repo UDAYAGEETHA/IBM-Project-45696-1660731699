@@ -7,7 +7,7 @@ Vshalini2002
   Assignment-1 link
      https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FAssignment-1&subView=model000001833c3a3e64_00000004
   Assignment-2 link
-     https://us3.ca.analytics.ibm.com/bi/?     perspective=dashboard&pathRef=.my_folders%2FAssignment_2%2FPharma%2BSales%2BDashboard&action=view&mode=dashboard&subView=model0000018373a80a52_00000000
+     https://us3.ca.analytics.ibm.com/bi/?    perspective=dashboard&pathRef=.my_folders%2FAssignment_2%2FPharma%2BSales%2BDashboard&action=view&mode=dashboard&subView=model0000018373a80a52_00000000
 
 
 Swarnamalya-25
