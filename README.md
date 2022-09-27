@@ -36,5 +36,6 @@ SwethaP26
      https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2Fassignment%2B1&subView=model000001833fa6a0b0_00000003
 SwethaP26 
   Assignment-2 link
-    https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fassignment2b&action=view&mode=dashboard&subView=model000001837a56b559_00000001
     https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAssignment2a&action=view&mode=dashboard&subView=model000001837a48d608_00000000
+    https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fassignment2b&action=view&mode=dashboard&subView=model000001837a56b559_00000001
+    
